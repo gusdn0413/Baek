@@ -1,4 +1,4 @@
-package marthon;
+package marathon;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package marthon;
+package marathon;
 
 import java.io.*;
 import java.math.BigInteger;
